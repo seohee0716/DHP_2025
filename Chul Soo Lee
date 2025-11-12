@@ -2,8 +2,8 @@
   "patients": [
     {
       "id": "1",
-      "name": "Chul Soo Lee",
-      "age": 45,
+      "name": "Rabbit",
+      "age": 10,
       "gender": "Male",
       "vitalSigns": {
         "heartRate": [72, 75, 78, 80],
@@ -17,8 +17,8 @@
     },
     {
       "id": "2",
-      "name": "Hana Kim",
-      "age": 36,
+      "name": "Dog",
+      "age": 5,
       "gender": "Female",
       "vitalSigns": {
         "heartRate": [80, 90, 120, 110],
